@@ -6,8 +6,8 @@
 #define SS_PIN D4
 #define RST_PIN D2
 
-const char* ssid ="Tetraval";
-const char* password ="Dat@2019";
+const char* ssid ="yourssid";
+const char* password ="yourpassword";
 char hostname[] ="broker.hivemq.com";
 #define TOKEN "bytesofgigabytes"
 
